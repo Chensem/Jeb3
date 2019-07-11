@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="jarjar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="457aab97-afca-44ce-a583-dfd44dfbbf5d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/jebcrack$PathJar.ic" NAME="PathJar Coverage Results" MODIFIED="1562164838396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jebcrack" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PathJar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="131" column="30" selection-start-line="131" selection-start-column="30" selection-end-line="131" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/corei/debuggers/android/vm/Hs.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3075">
+              <caret line="309" selection-start-line="309" selection-end-line="309" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jebc.jar!/com/pnfsoftware/jeb/rcpclient/handlers/debugger/DebuggerAttachHandler.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1065">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/util/concurrent/ThreadEx.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/corei/parsers/apk/Zj.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10980">
+              <caret line="791" column="31" selection-start-line="791" selection-start-column="19" selection-end-line="791" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/Kz.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1845">
+              <caret line="149" selection-start-line="149" selection-end-line="149" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/AbstractClientContext.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3165">
+              <caret line="283" selection-start-line="283" selection-end-line="283" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JebCrack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/Licensing.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2250">
+              <caret line="186" column="31" selection-start-line="186" selection-start-column="31" selection-end-line="186" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/AbstractContext.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1665">
+              <caret line="132" selection-start-line="132" selection-end-line="132" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+      <find>gw</find>
+      <find>savePro</find>
+      <find>save</find>
+      <find>save *.</find>
+      <find>saving To disk is</find>
+      <find>download</find>
+      <find>var29</find>
+      <find>manifestHashes</find>
+      <find>p</find>
+      <find>verify</find>
+      <find>inte</find>
+      <find>integrity_failed</find>
+      <find>ping</find>
+      <find>build_type</find>
+      <find>LICENSE_FILENAME</find>
+      <find>pre</find>
+      <find>prepare</find>
+      <find>show</find>
+      <find>start</find>
+      <find>Licensing</find>
+      <find>append</find>
+      <find>AbstractContext</find>
+      <find>getBuildTypeString</find>
+      <find>var1</find>
+      <find>displayDemoInformation</find>
+      <find>isDebuggable</find>
+      <find>AbstractClientContext</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jebc.jar</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/JebCrackMain.java" />
+        <option value="$PROJECT_DIR$/src/JarHandler.java" />
+        <option value="$PROJECT_DIR$/src/PatchBinary.java" />
+        <option value="$PROJECT_DIR$/src/Licensing.java" />
+        <option value="$PROJECT_DIR$/src/PathJar.java" />
+        <option value="$PROJECT_DIR$/src/JebCrack.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-3" />
+    <option name="y" value="23" />
+    <option name="width" value="1630" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jebcrack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jebcrack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jebcrack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jebcrack" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jebcrack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jebcrack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jebcrack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="jebcrack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jeb.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jebcrack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jeb.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="pnfsoftware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jebcrack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jeb.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="pnfsoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="jeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jebcrack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jeb.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="pnfsoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="jeb" type="462c0819:PsiDirectoryNode" />
+              <item name="corei" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jebcrack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jeb.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="pnfsoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="jeb" type="462c0819:PsiDirectoryNode" />
+              <item name="corei" type="462c0819:PsiDirectoryNode" />
+              <item name="debuggers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jebcrack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jeb.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="pnfsoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="jeb" type="462c0819:PsiDirectoryNode" />
+              <item name="corei" type="462c0819:PsiDirectoryNode" />
+              <item name="debuggers" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jebcrack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jeb.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="pnfsoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="jeb" type="462c0819:PsiDirectoryNode" />
+              <item name="corei" type="462c0819:PsiDirectoryNode" />
+              <item name="debuggers" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="vm" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562314959690" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JebCrack">
+    <configuration name="JebCrack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JebCrack" />
+      <module name="jebcrack" />
+      <option name="VM_PARAMETERS" value="-Xss4M -Xmx8G -XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathJar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PathJar" />
+      <module name="jebcrack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JebCrack" />
+      <item itemvalue="Application.PathJar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JebCrack" />
+        <item itemvalue="Application.PathJar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="457aab97-afca-44ce-a583-dfd44dfbbf5d" name="Default Changelist" comment="" />
+      <created>1562058658282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562058658282</updated>
+      <workItem from="1562058661164" duration="68667000" />
+      <workItem from="1562857230075" duration="605000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69272000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="23" width="1630" height="1027" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49841774" visible="true" weight="0.28463477" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50158226" side_tool="true" weight="0.26511335" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49811083" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49937028" weight="0.32406417" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49811083" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5006297" side_tool="true" weight="0.32406417" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.41498742" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/core/util/DecompilerHelper.class</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jebc.jar!/com/pnfsoftware/jeb/rcpclient/handlers/actions/ActionDecompileHandler.class</url>
+          <line>120</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jebc.jar!/com/pnfsoftware/jeb/rcpclient/handlers/HandlerUtil.class</url>
+          <line>131</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/dU.class</url>
+          <line>315</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/wM.class</url>
+          <line>202</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/xY.class</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JebCrackMain.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/Licensing.class</url>
+          <line>194</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/AbstractClientContext.class</url>
+          <line>221</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jebc.jar!/com/pnfsoftware/jeb/rcpclient/RcpClientContext.class</url>
+          <line>833</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/util/net/Net.class</url>
+          <line>383</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/kA.class</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/tx.class</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar!/sun/security/util/ManifestEntryVerifier.class</url>
+          <line>127</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar!/sun/security/util/ManifestEntryVerifier.class</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/AbstractClientContext.class</url>
+          <line>283</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/wR.class</url>
+          <line>99</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/AbstractContext.class</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/AbstractClientContext.class</url>
+          <line>515</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/AbstractClientContext.class</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/Licensing.class</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/Licensing.class</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/Licensing.class</url>
+          <line>164</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/Licensing.class</url>
+          <line>184</line>
+          <properties />
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/AbstractClientContext.class</url>
+          <line>282</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/AbstractClientContext.class</url>
+          <line>264</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/corei/debuggers/android/vm/Hs.class</url>
+          <line>309</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/corei/parsers/apk/Zj.class</url>
+          <line>793</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/Kz.class</url>
+          <line>148</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="com.pnfsoftware.jeb.client.Licensing.buildkey" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>123123</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dsadsa</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>{}</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>123</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1561127712</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1564583712</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>false</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>201906031751</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jebc.jar!/com/pnfsoftware/jeb/rcpclient/parts/units/TextHoverableProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jebc.jar!/com/pnfsoftware/jeb/rcpclient/iviewers/hover/InteractiveTextHover.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jface.jar!/org/eclipse/jface/text/TextViewerHoverManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="e#8591#8592#0" expanded="true" />
+            <element signature="e#8633#8634#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/zc.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/Nf.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/jar/JarFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="459" selection-start-line="459" selection-end-line="459" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="712" selection-start-line="712" selection-end-line="712" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Resource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PatchBinary.java" />
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/util/net/URLUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/util/net/UrlParametersBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/util/net/SecureSocketInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/util/net/ProgressResponseBody.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/util/net/NetProxyInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="73" column="45" selection-start-line="73" selection-start-column="45" selection-end-line="73" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/util/net/Net.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/vG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding>
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/javassist.jar!/javassist/CtClassType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/jar/JarVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar!/sun/security/util/ManifestEntryVerifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="115" column="16" lean-forward="true" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/wM.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+          <folding>
+            <element signature="e#4732#4733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/javassist.jar!/javassist/CtClass.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3553">
+          <caret line="320" column="51" selection-start-line="320" selection-start-column="47" selection-end-line="320" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/wR.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="109" column="19" selection-start-line="109" selection-start-column="15" selection-end-line="109" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jebc.jar!/com/pnfsoftware/jeb/rcpclient/handlers/actions/ActionDecompileHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jebc.jar!/com/pnfsoftware/jeb/rcpclient/handlers/HandlerUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/xY.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/tx.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/pnfsoftware/jeb/client/Licensing.java" />
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/kA.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/core/JebCoreService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jebc.jar!/com/pnfsoftware/jeb/rcpclient/extensions/app/App.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="159" selection-start-line="159" selection-end-line="159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jebc.jar!/com/pnfsoftware/jeb/rcpclient/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/util/format/Strings.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1274">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/gi.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="125" column="35" selection-start-line="125" selection-start-column="35" selection-end-line="125" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jebc.jar!/com/pnfsoftware/jeb/rcpclient/JebApp.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#1522#1523#0" expanded="true" />
+            <element signature="e#1575#1576#0" expanded="true" />
+            <element signature="e#1615#1616#0" expanded="true" />
+            <element signature="e#1668#1669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jebc.jar!/com/pnfsoftware/jeb/rcpclient/RcpClientContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275">
+          <caret line="1670" selection-start-line="1670" selection-end-line="1670" />
+          <folding>
+            <element signature="e#21075#21766#0" expanded="true" />
+            <element signature="e#21765#21766#0" expanded="true" />
+            <element signature="e#21808#22064#0" expanded="true" />
+            <element signature="e#22063#22064#0" expanded="true" />
+            <element signature="e#47171#47950#0" expanded="true" />
+            <element signature="e#47949#47950#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/mH.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="64" column="43" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/core/CoreOptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <folding>
+            <element signature="e#587#588#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/core/units/code/debug/impl/DebuggerSetupInformation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+          <folding>
+            <element signature="e#1540#1541#0" expanded="true" />
+            <element signature="e#1575#1576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jface.jar!/org/w3c/dom/Element.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/corei/debuggers/android/vm/Hs.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3075">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jebc.jar!/com/pnfsoftware/jeb/rcpclient/handlers/debugger/DebuggerAttachHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/util/concurrent/ThreadEx.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/corei/parsers/apk/Zj.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10980">
+          <caret line="791" column="31" selection-start-line="791" selection-start-column="19" selection-end-line="791" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jebglobal/Kz.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="149" selection-start-line="149" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/AbstractClientContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3165">
+          <caret line="283" selection-start-line="283" selection-end-line="283" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/AbstractContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Program/jeb-demo-3.6-beta.0.201906031751-JEBDecompilerDemo-121820464987384330/bin/app/jeb.jar!/com/pnfsoftware/jeb/client/Licensing.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="186" column="31" selection-start-line="186" selection-start-column="31" selection-end-line="186" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PathJar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="131" column="30" selection-start-line="131" selection-start-column="30" selection-end-line="131" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JebCrack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>jarjar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jebcrack</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

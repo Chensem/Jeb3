@@ -1,0 +1,70 @@
+html * {
+  font-size: .95em;
+  font-family: Courier New !important;
+  white-space: nowrap;
+}
+
+details {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 2em;  
+}
+
+.logsection {
+  padding-left: 20px;  
+}
+
+.logimp-small {
+  color: gray;
+  font-size: .95em;
+}
+.logimp-normal {
+}
+.logimp-highlight {
+  background-color: lightgray;
+  font-weight: bold;
+}
+.logimp-section {
+  background-color: lightgreen;
+  font-size: 110%;
+}
+.logimp-subtitle {
+  background-color: springgreen;
+  font-weight: bold;
+  font-size: 125%;
+}
+.logimp-title {
+  background-color: darkseagreen;
+  font-weight: bold;
+  font-size: 150%;
+}
+.logimp-chapter {
+  background-color: mediumseagreen;
+  font-weight: bold;
+  font-size: 175%;
+}
+
+.loglevel-trace {
+  color: lightgray;
+}
+.loglevel-debug {
+  color: gray;
+}
+.loglevel-info {
+}
+.loglevel-warn {
+  color: orange;
+  font-weight: bold;
+}
+.loglevel-error {
+  color: red;
+  font-weight: bold;
+}
+.loglevel-critical {
+  background-color: salmon;
+  color: black;
+  font-weight: bold;
+}

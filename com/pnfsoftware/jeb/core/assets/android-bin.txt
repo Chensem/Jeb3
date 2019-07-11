@@ -1,0 +1,2 @@
+# needed by the android debuggers
+android_debug_info = 39834935770897435
