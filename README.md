@@ -34,7 +34,7 @@ Patch the file use javasist.
 # Usage
 
 ## Directory Tree
-* src (the source code)
+* src (the source code) 
 * jeb.jar the jeb3_demo core api 
 * clean.sh ...
 
@@ -45,3 +45,7 @@ Patch the file use javasist.
 4. delete the INF/..RSA that store in jeb.jar
 5. copy the fucked jar to the origin path
 6. bingo !
+
+### Convenient Usage
+1. copy the git project jeb.jar to replace your origin jeb.jar
+2. Launcher And Enjoy it !
